@@ -1,7 +1,0 @@
-#! /bin/sh
-# Sample Shell Script
-
-echo "Today's date : `date`"
-echo "My Shell : $SHELL"
-echo "This Month's Calender : `cal`"
-echo "Today's date : `date "+%d%m%y"` "
