@@ -11,8 +11,8 @@ case $ch in
 	"o")echo "$ch is a vowel"
 	;;
 	"u")echo "$ch is a vowel"
- ;;
- "A")echo "$ch is a vowel"
+        ;;
+        "A")echo "$ch is a vowel"
 	;;
 	"E")echo "$ch is a vowel"
 	;;
